@@ -1,5 +1,5 @@
 ## Following are the two functions as part of R-programming assignmentfor week 3. 
-## The following new functions are based on the given example of "Caching the Mean of a Vector
+## The following new functions are based on the given example of "Caching the Mean of a Vector"
 
 ## 1. "makeCacheMatrix": This function creates a special "matrix" object that can cache its inverse.
 
